@@ -1,0 +1,175 @@
+<html>
+<head>
+<link rel="icon" 		href="sabordecasa.ico"		type="image/x-icon" />
+<link rel=stylesheet 	href="sabordecasa.css" 	type="text/css" />
+<TITLE>"SABOR DE CASA RESTAURANTE</TITLE>
+<meta name="title" content="SABOR DE CASA RESTAURANTE - Comida caseira na Praia do Cassino" />
+<meta name="classification" content="art" />
+<meta name="description" content="SABOR DE CASA RESTAURANTE - ©2024dc. by Mauricio Deleon" />
+<meta name="keywords" content="restaurante, marmita, lanches, bebidas, batata frita, cassino baech, RAIAR, raiar, art, designer, balneario cassino, praia cassino, cassino, rs, brasil, brazil, mauricio de leon, mauricio deleon, mauricio xavier" />
+<meta name="owner" content="sabordecasa@gmail.com" />
+<meta name="author" content="Mauricio Xavier" />
+<meta name="rating" content="all" />
+<meta name="robots" content="all" />
+<meta http-equiv="content-language" content="all" />
+<meta name="Mauricio1970" content="11th i5-1135G7 - ONZE - 13:28 19/03/2024">
+
+<style>
+body {
+  background-image: url('saborbg.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+
+
+<style>
+* {
+    Padding: 0px;
+    Margin: 0px;
+}
+#header_global{
+    width: 100%;
+}
+#header{
+    width: 1000px;
+    height: 120px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    text-align: center;
+
+}
+
+#content_global{
+    width: 100%;
+}
+#content{
+    width: 1000px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+}
+
+#footer_global{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+}
+#footer{
+    width: 1000px;
+    height: 100px;
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    background-color: #000;
+    text-align: center;     
+}
+</style>
+</head>
+
+
+
+<body text="#000000" LINK="#000000" VLINK="#000000" ALINK="#000000" background="saborbg.jpg">
+ 
+<div id="header_global">
+<div id="header">
+<div id="menu" style="width: 1000; height: 120; color: fff;
+ text-align: center; float: right; position: fixed;">
+
+<CENTER>
+<a href="https://api.whatsapp.com/send?phone=53991375866" target="_blank">
+<IMG SRC="sabortop.png" ALIGN="CENTER" VALIGN="top" HEIGHT=90 WIDTH=1000 BORDER=0 ALT="Sabor de Casa">
+</a>
+
+<center>
+<div style="background-image:url(saborbg.jpg); width:1000; height:30px; background-repeat:repeat-x">
+<center>
+<table cellpadding="0" cellspacing="0" width="1000" height=30>
+<tr VALIGN="middle">
+<td width"100%" align="center" VALIGN="middle">
+
+&nbsp;<A HREF="#restaur"><B>&nbsp;RESTAURANTE&nbsp;</A>&nbsp;
+&nbsp;<A HREF="#lanche"><B>&nbsp;LANCHE&nbsp;</A>&nbsp;
+&nbsp;<A HREF="#pastel"><B>&nbsp;PASTEL&nbsp;</A>&nbsp;
+&nbsp;<A HREF="#bebi"><B>&nbsp;BEBIDA&nbsp;</A>&nbsp;
+&nbsp;<A HREF="#tele"><B>&nbsp;PEDIR AGORA&nbsp;</A>&nbsp;
+</TD>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+
+
+  
+<div id="content_global">
+<div id="content">
+<center>
+
+<TABLE WIDTH=1000 border=0 cellPadding=0 cellSpacing=0>
+<TR>
+<TD WIDTH=1000 VALIGN="top">
+<CENTER>
+
+<a name="restaur">
+
+<a href="https://api.whatsapp.com/send?phone=53991375866" target="_blank">
+<IMG SRC="restaurante.png" WIDTH=1000 BORDER=0 ALT="PEDIR AGORA">
+</a>
+<BR>
+</TD>
+</TR>
+
+<TR>
+<TD WIDTH=1000 VALIGN="top">
+<CENTER>
+
+<a name="lanche">
+
+<a href="https://api.whatsapp.com/send?phone=53991375866" target="_blank">
+<IMG SRC="bebidas.png" WIDTH=1000 BORDER=0 ALT="PEDIR AGORA">
+</a>
+
+<HR>
+<a href="https://api.whatsapp.com/send?phone=53991375866" target="_blank">
+<IMG SRC="saborbase.png" VALIGN="middle" HEIGHT=99 WIDTH=1000 BORDER=0 ALT="Sabor de Casa">
+</a>
+
+</TD>
+<BR>
+</TD>
+</TR>
+</TABLE>
+</div>
+</div>
+
+<CENTER>
+
+<div id="footer_global">
+<div id="footer">
+
+<CENTER>
+
+<TABLE WIDTH=1000 HEIGHT=100 border=0 cellPadding=0 cellSpacing=0 background="off">
+<TR>
+<TD WIDTH=1000>
+<CENTER>
+<a href="https://api.whatsapp.com/send?phone=53991375866" target="_blank">
+<IMG SRC="saborbase.png" VALIGN="middle" HEIGHT=100 WIDTH=1000 BORDER=0 ALT="Sabor de Casa">
+</a>
+<BR><BR><BR>
+<HR>
+<BR><BR><BR>
+</TD>
+</TR>
+</TABLE>
+</div>
+</div>
+</body>
+</html>

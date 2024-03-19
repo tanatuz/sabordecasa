@@ -1,0 +1,58 @@
+.black {
+	FONT-SIZE: 24px; COLOR: #A9A9A9; LINE-HEIGHT: 24px; FONT-FAMILY: Arial
+}
+
+.menuw {
+	FONT-SIZE: 30px; COLOR: #FFFFFF; LINE-HEIGHT: 30px; FONT-FAMILY: Arial
+}
+.menub {
+	FONT-SIZE: 24px; COLOR: #4A2DCA; LINE-HEIGHT: 24px; FONT-FAMILY: Arial
+}
+.menuc {
+	FONT-SIZE: 90px; COLOR: #A9A9A9; LINE-HEIGHT: 24px; FONT-FAMILY: Times
+}
+
+.kwai {
+	 FONT-SIZE: 48px; COLOR: #FE9A2E; LINE-HEIGHT: 40px; FONT-FAMILY: Arial
+}
+.branco14 {
+	 FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 14px; FONT-FAMILY: "Times New Roman"
+}
+.online {	FONT-SIZE: 18px; COLOR: #FFFFFF; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.offline {	FONT-SIZE: 14px; COLOR: #FFFFFF; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+
+.preto14 {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.texto_azul {
+	FONT-SIZE: 12px; COLOR: #003399; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.texto_preto {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.menu {
+	FONT-SIZE: 14px; COLOR: #000000; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.deleon {
+	FONT-SIZE: 24px; COLOR: #333399; LINE-HEIGHT: 20px; FONT-FAMILY: Arial
+}
+.brinde {
+	FONT-SIZE: 18px; COLOR: #333399; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+.etc {
+	FONT-SIZE: 16px; COLOR: #003377; LINE-HEIGHT: 20px; FONT-FAMILY: Verdana, Arial, "Times New Roman"
+}
+A:active {
+	FONT-SIZE: 24px; COLOR: #000000; FONT-FAMILY:  Arial; BACKGROUND-COLOR: #FF0000; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 24px; COLOR: #000000; FONT-FAMILY:  Arial; BACKGROUND-COLOR: #FF0000; TEXT-DECORATION: none
+}
+A:link {
+	FONT-SIZE: 24px; COLOR: #000000; FONT-FAMILY:  Arial; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 24px; COLOR: #000000; FONT-FAMILY:  Arial; TEXT-DECORATION: none
+}
